@@ -375,6 +375,7 @@
     "remove": "",
     "yes_remove": "",
     "remove_from_album": "",
+    "remove_from_album_others_message": "",
     "move_to_trash": "",
     "trash_files_message": "",
     "trash_file_message": "",

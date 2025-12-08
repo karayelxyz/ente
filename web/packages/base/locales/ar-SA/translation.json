@@ -375,6 +375,7 @@
     "remove": "إزالة",
     "yes_remove": "نعم، إزالة",
     "remove_from_album": "إزالة من الألبوم",
+    "remove_from_album_others_message": "",
     "move_to_trash": "نقل إلى سلة المهملات",
     "trash_files_message": "سيتم إزالة الملفات المحددة من جميع الألبومات ونقلها إلى سلة المهملات.",
     "trash_file_message": "سيتم إزالة الملف من جميع الألبومات ونقله إلى سلة المهملات.",

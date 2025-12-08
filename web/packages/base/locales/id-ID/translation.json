@@ -375,6 +375,7 @@
     "remove": "Hapus",
     "yes_remove": "Ya, hapus",
     "remove_from_album": "Hapus dari album",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Pindahkan ke sampah",
     "trash_files_message": "File terpilih akan dihapus dari semua album dan dipindahkan ke sampah.",
     "trash_file_message": "File ini akan dihapus dari semua album dan dipindahkan ke sampah.",

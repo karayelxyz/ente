@@ -375,6 +375,7 @@
     "remove": "移除",
     "yes_remove": "是，移除",
     "remove_from_album": "從相簿移除",
+    "remove_from_album_others_message": "",
     "move_to_trash": "移至垃圾桶",
     "trash_files_message": "被選擇的檔案將在所有相簿移除並移動至垃圾桶。",
     "trash_file_message": "此檔案將在所有相簿移除並移動至垃圾桶。",

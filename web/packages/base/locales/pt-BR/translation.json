@@ -375,6 +375,7 @@
     "remove": "Remover",
     "yes_remove": "Sim, remover",
     "remove_from_album": "Remover do álbum",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Mover à lixeira",
     "trash_files_message": "Os arquivos selecionados serão removidos de todos os álbuns e movidos à lixeira.",
     "trash_file_message": "O arquivo será removido de todos os álbuns e movido à lixeira.",

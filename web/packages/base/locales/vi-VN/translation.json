@@ -375,6 +375,7 @@
     "remove": "Xóa",
     "yes_remove": "Có, xóa",
     "remove_from_album": "Xóa khỏi album",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Cho vào thùng rác",
     "trash_files_message": "Các tệp đã chọn sẽ bị xóa khỏi tất cả album và cho vào thùng rác.",
     "trash_file_message": "Tệp sẽ bị xóa khỏi tất cả album và cho vào thùng rác.",

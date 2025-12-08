@@ -375,6 +375,7 @@
     "remove": "Видалити",
     "yes_remove": "Так, видалити",
     "remove_from_album": "Видалити з альбому",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Перемістити у смітник",
     "trash_files_message": "Вибрані файли буде видалено з усіх альбомів і переміщено в смітник.",
     "trash_file_message": "Файл буде видалено з усіх альбомів і переміщено в смітник.",

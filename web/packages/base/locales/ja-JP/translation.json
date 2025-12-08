@@ -375,6 +375,7 @@
     "remove": "削除",
     "yes_remove": "はい、削除します",
     "remove_from_album": "アルバムから削除する",
+    "remove_from_album_others_message": "",
     "move_to_trash": "ごみ箱に移動",
     "trash_files_message": "選択したファイルはすべてのアルバムから削除されごみ箱に移動されます。",
     "trash_file_message": "ファイルはすべてのアルバムから削除されごみ箱に移動されます。",

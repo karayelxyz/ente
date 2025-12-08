@@ -375,6 +375,7 @@
     "remove": "Kaldır",
     "yes_remove": "Evet, kaldır",
     "remove_from_album": "Albümden kaldır",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Çöp Kutusuna taşı",
     "trash_files_message": "Seçilen dosyalar tüm albümlerden silinecek ve çöp kutusuna taşınacak.",
     "trash_file_message": "Seçilen dosya tüm albümlerden silinecek ve çöp kutusuna taşınacak.",

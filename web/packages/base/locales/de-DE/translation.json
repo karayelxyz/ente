@@ -375,6 +375,7 @@
     "remove": "Entfernen",
     "yes_remove": "Ja, entfernen",
     "remove_from_album": "Aus Album entfernen",
+    "remove_from_album_others_message": "",
     "move_to_trash": "In Papierkorb verschieben",
     "trash_files_message": "Ausgewählte Dateien werden aus allen Alben entfernt und in den Papierkorb verschoben.",
     "trash_file_message": "Die Datei wird aus allen Alben entfernt und in den Papierkorb verschoben.",

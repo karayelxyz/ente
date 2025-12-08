@@ -375,6 +375,7 @@
     "remove": "Retirer",
     "yes_remove": "Oui, retirer",
     "remove_from_album": "Retirer de l'album",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Déplacer vers la corbeille",
     "trash_files_message": "Les fichiers sélectionnés seront retirés de tous les albums puis déplacés dans la corbeille.",
     "trash_file_message": "Le fichier sera retiré de tous les albums puis déplacé dans la corbeille.",

@@ -375,6 +375,7 @@
     "remove": "Ta bort",
     "yes_remove": "Ja, ta bort",
     "remove_from_album": "Ta bort från album",
+    "remove_from_album_others_message": "",
     "move_to_trash": "Flytta till papperskorg",
     "trash_files_message": "",
     "trash_file_message": "",
